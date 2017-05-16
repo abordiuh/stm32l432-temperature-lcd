@@ -1,4 +1,4 @@
- #STM32 L432 Temperature reader with LCD
+ # STM32 L432 Temperature reader with LCD
 ***************************************************************************
 
  The folder ABordiuh_Temp_Sens - contains source code and project 
